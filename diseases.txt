@@ -1,0 +1,35 @@
+Disease: Diabetes
+Symptom: Increased thirst
+Excessive thirst and frequent urination
+Symptom: Fatigue
+Feeling tired and weak
+Treatment: Insulin therapy and dietary management
+
+Disease: Hypertension (High Blood Pressure)
+Symptom: Headache
+Frequent headaches, particularly at the back of the head and in the morning
+Symptom: Dizziness
+Feeling dizzy or lightheaded
+Treatment: Lifestyle changes and medications to lower blood pressure
+
+Disease: Asthma
+Symptom: Wheezing
+Whistling or wheezing sound when breathing
+Symptom: Shortness of breath
+Difficulty breathing, especially during physical activity
+Treatment: Inhalers (bronchodilators) and asthma management plan
+
+Disease: Influenza (Flu)
+Symptom: Fever
+Sudden onset of high fever
+Symptom: Muscle aches
+Body aches and fatigue
+Treatment: Rest, fluids, and sometimes antiviral medication
+
+Disease: Gastroenteritis (Stomach Flu)
+Symptom: Nausea
+Feeling sick to the stomach
+Symptom: Diarrhea
+Frequent loose or watery stools
+Treatment: Fluid replacement and symptomatic relief
+
